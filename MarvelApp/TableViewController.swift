@@ -1,7 +1,4 @@
 import UIKit
-private let baseURL = "https://gateway.marvel.com/v1/public/characters?"
-private let apiKey = "cb1b120ff85906ee9b983956ff29e5b6"
-private let secret = "40ed3ff049eea11fbbe6e53cbe08470d51fd03e6"
 class TableViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     let tableView = UITableView()
     var heroes: [Hero] = []

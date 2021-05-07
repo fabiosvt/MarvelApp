@@ -1,10 +1,3 @@
-//
-//  MarvelAppTests.swift
-//  MarvelAppTests
-//
-//  Created by Fabio Silvestri on 06/05/21.
-//
-
 import XCTest
 @testable import MarvelApp
 

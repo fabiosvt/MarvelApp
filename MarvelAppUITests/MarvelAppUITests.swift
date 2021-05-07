@@ -1,10 +1,3 @@
-//
-//  MarvelAppUITests.swift
-//  MarvelAppUITests
-//
-//  Created by Fabio Silvestri on 06/05/21.
-//
-
 import XCTest
 
 class MarvelAppUITests: XCTestCase {
